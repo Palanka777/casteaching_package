@@ -3,13 +3,17 @@
 # Instal·lació
 
 ```bash 
+npm install @palanka777/casteaching_palanka
+o
 npm install @acacha/casteaching
 ``` 
 
 # Usage
 
 ```javascript
+
 import casteaching from '@acacha/casteaching'
+//import casteaching from '@palanka777/casteaching_palanka'
 
 // Obtenir llista de vídeos publicats
 casteaching.videos()
@@ -32,8 +36,8 @@ casteaching.video.destroy(1)
 David Pont & Sergi Tur Badenas
 
 # More info
-- https://github.com/acacha/casteaching
-- https://github.com/acacha/casteaching_package
+- https://github.com/palanka777/casteaching_palanka
+- https://github.com/palanka777/casteaching_package
 
 # Creació de repositori propi
 
