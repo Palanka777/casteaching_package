@@ -29,7 +29,7 @@ casteaching.video.destroy(1)
 
 # Author
 
-Sergi Tur Badenas
+David Pont & Sergi Tur Badenas
 
 # More info
 - https://github.com/acacha/casteaching

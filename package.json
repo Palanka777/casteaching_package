@@ -1,7 +1,7 @@
 {
   "name": "@palanka777/casteaching_palanka",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Casteaching api service",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.24.0"
@@ -10,6 +10,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Palanka",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Palanka777/casteaching_package.git"
+  },
+  "keywords": [
+    "Casteaching",
+    "api",
+    "rest",
+    "laravel"
+  ],
+  "author": "David Pont & Sergi tur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Palanka777/casteaching_package/issues"
+  },
+  "homepage": "https://github.com/Palanka777/casteaching_package#readme"
 }
