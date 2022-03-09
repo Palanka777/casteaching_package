@@ -1,6 +1,6 @@
 {
   "name": "@palanka777/casteaching_palanka",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Casteaching api service",
   "main": "index.js",
   "dependencies": {
